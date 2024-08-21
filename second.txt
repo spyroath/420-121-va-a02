@@ -1,5 +1,6 @@
+add to beginning
+
 Here is my second file
 It is also a wonderful file
 
 I added a line at the end
-I added more to the end
